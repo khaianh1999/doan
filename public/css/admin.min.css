@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #f70;
+}
+
+[class*=sidebar-dark-] {
+    background-color: #001529;
+}
+
+.sidebar-submenu { padding-left: 35px !important; }
+
